@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://pupilacademy.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://pupilacademy.com/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://pupilacademy.com/blog.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://pupilacademy.com/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://pupilacademy.com/privacy.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://pupilacademy.com/terms.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://pupilacademy.com/disclaimer.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://pupilacademy.com/cookies.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://pupilacademy.com/blog/the-pupillary-light-reflex-afferent-pathways-and-autonomic-dynamics.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pupilacademy.com/blog/wavefront-aberrometry-and-higher-order-aberrations-in-refractive-optics.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pupilacademy.com/blog/photopic-vs-scotopic-vision-retinal-photoreceptors-and-pupil-aperture.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pupilacademy.com/blog/circadian-neurobiology-iprgc-cells-and-blue-light-spectral-tuning.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pupilacademy.com/blog/binocular-vision-and-accommodative-convergence-in-visual-cognition.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pupilacademy.com/blog/corneal-topography-and-scheimpflug-tomography-in-optical-diagnostics.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
